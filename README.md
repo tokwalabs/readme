@@ -1,2 +1,2 @@
 # readme
-Welcome to Tokwa Studios GitHub page
+Welcome to Tokwa Labs GitHub page
